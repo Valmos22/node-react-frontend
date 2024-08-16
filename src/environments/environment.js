@@ -1,3 +1,3 @@
 export const environment = {
-    dictionary_api_endpoint: "https://localhost:3000",
+    api_node: "https://localhost:3000",
 }

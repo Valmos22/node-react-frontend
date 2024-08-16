@@ -16,8 +16,6 @@ const Login = () => {
             return;
         }
 
-        console.log(username, password)
-
         // Procesar el inicio de sesión (aquí puedes agregar tu lógica de autenticación)
         console.log('Inicio de sesión exitoso');
         setError(''); // Limpiar errores si la validación pasa
